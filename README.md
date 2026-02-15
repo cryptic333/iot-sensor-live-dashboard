@@ -91,6 +91,7 @@ Although simplified, the architecture can be extended to:
 ```bash
 pip install pandas numpy streamlit matplotlib
 
+---
 
 ## Output
 
