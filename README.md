@@ -89,7 +89,6 @@ Although simplified, the architecture can be extended to:
 
 ### 1. Install dependencies
 
-```bash
 pip install pandas numpy streamlit matplotlib
 
 ---
