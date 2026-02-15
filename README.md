@@ -90,3 +90,13 @@ Although simplified, the architecture can be extended to:
 
 ```bash
 pip install pandas numpy streamlit matplotlib
+
+
+## Output
+
+![Image 1](img1.png)
+![Image 2](img2.png)
+![Image 3](img3.png)
+![Image 4](img4.png)
+![Image 5](img5.png)
+![Image 6](img6.png)
